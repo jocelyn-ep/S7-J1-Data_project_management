@@ -6,4 +6,5 @@ Objectif : utiliser des outils de gestion de projet appliqués à un projet data
 
 ## Outils de travail
 
-- Powerpoint
+- Canva : présentation client
+- Notion : gestion de projet
